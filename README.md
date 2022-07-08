@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kyumln
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning phyton, java, c++
-- 💞️ I’m looking to collaborate on naver
+- 🌱 I’m currently learning java
 - 📫 How to reach me warren7004@naver.com
